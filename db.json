@@ -1,0 +1,132 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Calça jeans",
+        "price": "200,00",
+        "description": "Calça jeans masculina muito confortável com tecido esticável que combina com vários estilos.",
+        "image": "https://www.delabela.com.br/image/cache/data/Produtos/CA/CALCA-JEANS-FEMININA-SUPER-SKINNY-HERING-H98U-JEANS-972CC443-1-200x200.jpg",
+        "rating": "4,5",
+        "category": "Roupas"
+      },
+      {
+        "id": 2,
+        "title": "Headset Gamer HyperX",
+        "price": "149,90",
+        "description": "Fone de ouvido com microfone da HyperX excelente para jogos, facilmente transportável e com bateria que dura até 3 dias seguidos.",
+        "image": "https://images8.kabum.com.br/produtos/fotos/117768/headset-gamer-hyperx-cloud-stinger-s-7-1-som-surround-drivers-50mm-hhss1s-aa-bk-g_1598023663_m.jpg",
+        "rating": "4,5",
+        "category": "Eletrônico"
+      },
+      {
+        "id": 3,
+        "title": "Aspirador de pó",
+        "price": "229,00",
+        "description": "Aspirador de pó sem fio super-potente que aspira até pedras e continua funcionando, com bateria que dura até 20 dias.",
+        "image": "https://dju62cr0hx23m.cloudfront.net/Custom/Content/Products/10/00/1000182_aspirador-de-po-e-agua-worker-1400w-220v_s1_637822664093479009.jpg",
+        "rating": "4,5",
+        "category": "Eletrônico, Doméstico"
+      },
+      {
+        "id": 4,
+        "title": "Geladeira Brastemp",
+        "price": "5.045",
+        "description": "Geladeira econômica e super-potente da Brastemp com filtro de água, um compartimento para freezer e dois para gelar os produtos.",
+        "image": "https://images1.kabum.com.br/produtos/fotos/sync_mirakl/163141/Geladeira-Samsung-French-Door-536-Litros-Inox-110V-RF23R6201SR-AZ_1672316285_m.jpg",
+        "rating": "4,5",
+        "category": "Eletônico, Doméstico"
+      },
+      {
+        "id": 5,
+        "title": "MacBook Pro",
+        "price": "7.999,00",
+        "description": "Notebook da Apple superpotente, que pode ser usado para jogos mais pesados, pois possui processador muito eficiente e que esquenta pouco. Bateria que dura até 12 horas seguidas e teclado sem barulho e confortável.",
+        "image": "https://www.iplace.com.br/ccstore/v1/images/?source=https://www.iplace.com.br/file/v8737135379073582761/collections/macbook-air-categoria-iplace-menu.jpg&height=200&width=200&quality=0.9",
+        "rating": "4,5",
+        "category": "Eletrônico"
+      },
+      {
+        "id": 6,
+        "title": "Box Game of Thrones",
+        "price": "535,00",
+        "description": "Box de edição limitada com os 5 livros das Crônicas de Gelo e Fogo, com capa dura e página amarelada confortável para os olhos.",
+        "image": "https://m.media-amazon.com/images/I/71nK5FjjYVL._AC_UF1000,1000_QL80_.jpg",
+        "rating": "4.5",
+        "category": "Livro"
+      },
+      {
+        "id": 7,
+        "title": "Smart TV",
+        "price": "7.999,00",
+        "description": "Smart TV com tela plana de 200 polegadas, 4K, que responde por comando de voz e possui imagens ultra-realistas.",
+        "image": "https://image.made-in-china.com/155f0j00CenfPSKGnEkh/Plasma-Screen-32-Inch-FHD-Smart-LED-TV-32-Frameless-LED-TV-Panel-32-Inch-Smart-TV.jpg",
+        "rating": "4,5",
+        "category": "Eletrônico, Doméstico"
+      },
+      {
+        "id": 8,
+        "title": "Teclado Gamer",
+        "price": "245,00",
+        "description": "Teclado gamer que não faz barulho ao tocar nas teclas, com luzes de led coloridas embaixo dos botões e possui funcionalidades exclusivas para gamers.",
+        "image": "https://images.kabum.com.br/produtos/fotos/108983/teclado-mecanico-gamer-t-dagger-bora-rgb-switch-outemu-blue-abnt2-t-tgk315-blue_1640725246_original.jpg",
+        "rating": "4,5",
+        "category": "Eletrônicos"
+      },
+      {
+        "id": 9,
+        "title": "Cadeira Gamer",
+        "price": "789,25",
+        "description": "Cadeira feita especialmente para gamers super-confortável para a coluna, braços e pernas.",
+        "image": "https://casariosonline.com.br/media/catalog/product/cache/92ef4a2af8e4a8e672e6cf5c0b383af8/4/5/45442_0.jpg",
+        "rating": "4,5",
+        "category": "Doméstico"
+      },
+      {
+        "id": 10,
+        "title": "Jogo de facas Tramontina",
+        "price": "144,90",
+        "description": "Conjunto de facas da Tramontina. Essas são as facas mais afiadas que você encontrará no Brasil. O conjunto possui facas para cortar todo tipo de alimento.",
+        "image": "https://images.tcdn.com.br/img/img_prod/818693/jogo_facas_inox_9_pecas_plenus_preto_tramontina_2341_2_0094b961db278dec56787385bfe30b59_20211014102247.jpeg",
+        "rating": "5",
+        "category": "Doméstico"
+      },
+      {
+        "id": 11,
+        "title": "Sofá",
+        "price": "764,92",
+        "description":
+  
+   "Sofá com extensão que é extremamente confortável.",
+        "image": "https://a-static.mlcdn.com.br/1500x1500/sofa-de-canto-5-lugares-suede-cinza-luizzi-espanha-200x200-best-house/moveiszapp/cl01329595/9111b019e67f6ea1f2769fc1b4fa0581.jpeg",
+        "rating": "5",
+        "category": "Doméstico"
+      },
+      {
+        "id": 12,
+        "title": "Livro It: A Coisa",
+        "price": "64,99",
+        "description": "Nesse clássico de Stephen King, o demônio que atormentou a vida dos Otários quando eram crianças retorna para Derry 27 anos depois para ter sua vingança.",
+        "image": "https://cf.shopee.com.br/file/be50f0b5a69bbc74301005930c3b7255",
+        "rating": "5",
+        "category": "Livro"
+      },
+      {
+        "id": 13,
+        "title": "Xbox Series X",
+        "price": "3.829,99",
+        "description": "O Xbox da nova geração é muito mais veloz e possui melhores gráficos do que a geração anterior, além de ter jogos exclusivos para o console.",
+        "image": "https://images.kabum.com.br/produtos/fotos/128560/console-microsoft-xbox-series-x-1tb-preto-rrt-00006_1601067024_m.jpg",
+        "rating": "5",
+        "category": "Eletrônico"
+      },
+      {
+        "id": 14,
+        "title": "Guitarra Stratocaster",
+        "price": "3.999,00",
+        "description": "Uma réplica perfeita da guitarra do lendário guitarrista Steve Vai! Possui ponte Floyd Rose e captadores duplos.",
+        "image": "https://harmoniamusical.com.br/media/catalog/product/cache/7c65d8a16c1a9fa15447e0ab5eeb833b/g/u/guitarra_ibanez_jem_jr_steve_vai_wh.jpg",
+        "rating": "5",
+        "category": "Música"
+      }
+    ]
+}
